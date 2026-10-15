@@ -28,7 +28,7 @@ A Hybrid Fine-Tuned LLM + Agentic AI
 
 
 # Full WriteUp: 
-https://www.kaggle.com/competitions/ai-4-s-open-innovation-artificial-intelligence-for-life-scien/writeups/chipscreen-a-hybrid-fine-tuned-llm-agentic-ai-s
+<p>https://www.kaggle.com/competitions/ai-4-s-open-innovation-artificial-intelligence-for-life-scien/writeups/chipscreen-a-hybrid-fine-tuned-llm-agentic-ai-s</p>
 
 # Citation
 
