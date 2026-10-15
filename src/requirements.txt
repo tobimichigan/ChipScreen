@@ -1,0 +1,28 @@
+# main.py installs anything missing automatically (bootstrap.py); this file is for reference / offline installs
+numpy
+pandas
+scipy
+scikit-learn
+scikit-image
+matplotlib
+seaborn
+tqdm
+psutil
+joblib
+pyarrow
+openpyxl
+lxml
+tifffile
+imagecodecs
+opencv-python-headless
+pillow
+requests
+torch
+rdkit
+lightgbm
+# LLM fine-tuning + retrieval (optional stages)
+transformers
+peft
+accelerate
+huggingface_hub
+sentence-transformers
