@@ -32,6 +32,7 @@ https://www.kaggle.com/competitions/ai-4-s-open-innovation-artificial-intelligen
 
 # Citation
 
-# DOI (Digital Object Identifier)https://doi.org/10.34740/kaggle/w/118077
+<p>Handsonlabs Software Academy. (2026). ChipScreen: A Hybrid Fine-Tuned LLM + Agentic AI System for Organ-on-a-Chip. Kaggle. https://doi.org/10.34740/KAGGLE/W/118077</p>
 
-Handsonlabs Software Academy. (2026). ChipScreen: A Hybrid Fine-Tuned LLM + Agentic AI System for Organ-on-a-Chip. Kaggle. https://doi.org/10.34740/KAGGLE/W/118077
+# DOI (Digital Object Identifier) 
+<p>https://doi.org/10.34740/kaggle/w/118077</p>
