@@ -25,3 +25,13 @@ A Hybrid Fine-Tuned LLM + Agentic AI
 <img width="2190" height="622" alt="history_chiptox_cnn_attn_fold1" src="https://github.com/user-attachments/assets/2ebbe017-9ebc-4d9a-83c8-82587b51479f" />
 <img width="2190" height="622" alt="history_chipcell_seg" src="https://github.com/user-attachments/assets/acf769bc-78e7-45f7-a367-537c5331289f" />
 <img width="2277" height="684" alt="glow_trust_and_generalisation" src="https://github.com/user-attachments/assets/e609eafd-1297-4961-834e-bb4308ef3521" />
+
+
+# Full WriteUp: 
+https://www.kaggle.com/competitions/ai-4-s-open-innovation-artificial-intelligence-for-life-scien/writeups/chipscreen-a-hybrid-fine-tuned-llm-agentic-ai-s
+
+# Citation
+
+# DOI (Digital Object Identifier)https://doi.org/10.34740/kaggle/w/118077
+
+Handsonlabs Software Academy. (2026). ChipScreen: A Hybrid Fine-Tuned LLM + Agentic AI System for Organ-on-a-Chip. Kaggle. https://doi.org/10.34740/KAGGLE/W/118077
